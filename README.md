@@ -1,5 +1,8 @@
 # Rock Paper Scissors x99
 
+To install the project simply copy this repository and run `npm install` in the root directory (note: you have to have Node.js installed to run).
+Then open the index.html file and enjoy an awsome experience!
+
 ## Project Overview
 
 In this project, you will build all of the logic needed for a more intense version of
